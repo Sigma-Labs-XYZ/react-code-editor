@@ -1,7 +1,7 @@
 const challenges = [
   {
     id: 1,
-    title: "Getting Started",
+    title: "Sigma Labs: Overview",
     showEditor: false,
     showRun: false,
     showInstructions: true,
@@ -9,26 +9,20 @@ const challenges = [
 
 **Please read all of this document before starting.**
 
-## Reading this file...
-
-You can click the 'Open Preview' and the 'Markdown' Tab to the right of this page to view this document in a more easy to read version of this file.
-
-## About this Assessment
-
-### Structure
+## Structure
 
 This assessment is split into two halves
 
 1. 30 minutes of solo-coding
 2. 30 minutes of code review and pair programming. 
 
-### Your Aims
+## Your Aims
 
 Your goal is to make it as far through these exercises as you can. If you get stuck - that's fine - all that means is that you will work through what you're stuck on with a coach. **Getting stuck does not mean you are failing the assessment.**
 
 It is also worth nothing - **there is far too much work here** to get done in the time we've given you. You aim is not to complete everything here. We will continue to work on the challenges here in your interview.
 
-### What we're looking for
+## What we're looking for
 
 The qualities we are search for in this process are 
 
@@ -40,10 +34,10 @@ The qualities we are search for in this process are
 	- Do you understand how code fits together?
 - Abstraction
 	- Do you understand how to reuse code?
-- Plesant
+- Pleasant
 	- Are you nice to work with?
 
-### Guidelines
+## Guidelines
 
 - When working with a coach, ask for help whenever you need it. 
 - Your interviewer is there to help you work out the solutions to the problems.
@@ -55,21 +49,10 @@ The qualities we are search for in this process are
    - e.g. "Is there a JavaScript function that reverses a string?"
    - e.g. "How do I write a for loop?"
    - e.g. "What is the syntax for a function?" 
-3. You are **not** allow to use Google to search for answers to the problems. You will be tested on the code you wrote in your interview. It will be very clear if you have used Google to help you.
+2. You are **not** allow to use Google to search for answers to the problems. You will be tested on the code you wrote in your interview. It will be very clear if you have used Google to help you.
    - e.g. "Sigma Labs Interview Stage 3 Solution"
    - e.g. "How to reverse a string in JavaScript?"
-5. You are allowed to use any notes you have made from what you have learnt so far.
-
-## Running the Exercises
-
-To run the code for each of the assignments you should
-
-1. Click on the 'Shell' tab to the right of this panel
-   - When this is working you should see a message like this '~/Stage-3$'
-2. Next, write the name of the file you want to run preceded by the word 'node'
-   - To test this, enter 'node 00_example.js'
-   - If this is working you should see a message starting 'Congratulations, you've...'
-3. To run any other file, replace '00_example.js' with the file name to the left of this panel
+3. You are allowed to use any notes you have made from what you have learnt so far.
     `,
     code: ``,
   },
