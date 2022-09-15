@@ -260,6 +260,7 @@ const Landing = () => {
           setChallenge(challenges[id - 1]);
           setCode(challenges[id - 1].code);
         }}
+        selected={challenge.id}
       />
 
       <div className="flex flex-row space-x-4 items-start px-4 py-4">
