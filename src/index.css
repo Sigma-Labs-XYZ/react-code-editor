@@ -46,6 +46,6 @@ body {
   }
 }
 
-prose {
+.prose {
   max-width: 100% !important;
 }
