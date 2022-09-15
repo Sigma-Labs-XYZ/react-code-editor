@@ -1,4 +1,4 @@
-import ReactMarkdown from "https://esm.sh/react-markdown@7";
+import ReactMarkdown from "react-markdown";
 import React from "react";
 
 const Instructions = (props) => {
